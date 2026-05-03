@@ -1,127 +1,88 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<title>Google Visibility :: Hoosier Online LLC</title>
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<style>
-body {
-    margin: 0;
-    font-family: Arial, sans-serif;
-    background: #fff;
-    color: #111;
-    text-align: center;
-}
-
-.container {
-    max-width: 720px;
-    margin: auto;
-    padding: 60px 20px;
-}
-
-h1 {
-    font-size: 34px;
-    line-height: 1.2;
-}
-
-p {
-    font-size: 18px;
-    color: #333;
-    line-height: 1.6;
-}
-
-.box {
-    background: #f6f6f6;
-    padding: 20px;
-    margin: 25px 0;
-    border-radius: 10px;
-}
-
-ul {
-    text-align: left;
-    display: inline-block;
-    margin-top: 10px;
-}
-
-li {
-    margin-bottom: 10px;
-}
-
-.cta {
-    display: inline-block;
-    margin-top: 25px;
-    padding: 15px 25px;
-    background: black;
-    color: white;
-    text-decoration: none;
-    border-radius: 6px;
-}
-
-.cta:hover {
-    opacity: 0.85;
-}
-
-.small {
-    font-size: 13px;
-    color: #666;
-    margin-top: 25px;
-}
-</style>
-</head>
-
-<body>
-
 <div class="container">
 
-<h1>How Local Customers Find Your Business on Google (and Why Most Don’t)</h1>
+<div class="hero">
+
+<div class="badge">Built for local businesses</div>
+
+<h1>
+If someone in your area searches for what you do…<br>
+they should be able to find you easily.
+</h1>
 
 <p>
-Most small business owners don’t realize this:
+That sounds obvious, but honestly — a lot of small businesses don’t show up clearly on Google.
 </p>
 
 <p>
-When someone searches for your service on their phone, Google decides in seconds whether they find you… or your competitor.
+Not because they’re doing anything wrong.  
+Just because nobody ever showed them how this stuff works.
 </p>
 
-<div class="box">
-<p><b>This guide shows you exactly how that system works — and how to fix it.</b></p>
-</div>
+<div class="price">$19</div>
 
-<h2>Inside the Google Visibility Fix Guide:</h2>
-
-<ul>
-<li>How Google decides which businesses show up first</li>
-<li>The 3 most important parts of your business listing</li>
-<li>Common mistakes that cause lost customers</li>
-<li>A simple step-by-step system to fix your visibility</li>
-<li>What actually changes when it’s done correctly</li>
-</ul>
-
-<div class="box">
-<p><b>No marketing jargon. No technical setup required to understand it.</b></p>
-<p>Just a clear system you can follow or have done for you.</p>
-</div>
-
-<h2>Get the Guide</h2>
-
-<p>
-Download the Google Visibility Fix and learn how to make sure customers can actually find your business when they search.
-</p>
-
-<a class="cta" href="YOUR_DOWNLOAD_LINK_HERE">
-Download the PDF Guide
+<a href="/create-checkout-session.php" class="cta">
+Get the Guide
 </a>
 
-<div class="box">
-<p><b>Optional:</b> Want it done for you?</p>
-<p>After you read the guide, we can set everything up for your business once you grant access.</p>
 </div>
 
-<p class="small">
-Built for local business owners who rely on phone calls, walk-ins, and local search.
+<div class="box">
+<strong>Here’s what this is:</strong>
+<p style="margin-top:10px;">
+A simple, straight-to-the-point guide that walks you through how your business actually shows up on Google — and what to fix so people can find you and call you.
+</p>
+</div>
+
+<div class="box">
+<strong>What you’ll learn:</strong>
+<ul>
+<li>What customers actually see when they search</li>
+<li>Why some businesses show up first and others don’t</li>
+<li>The small things that make a big difference (most people miss these)</li>
+<li>How to fix your listing step-by-step</li>
+<li>What should happen after it’s set up right</li>
+</ul>
+</div>
+
+<h2>Real talk</h2>
+
+<p>
+Most people aren’t trying to “do marketing.”
 </p>
 
+<p>
+They just want their phone to ring and their business to be easy to find.
+</p>
+
+<p>
+That’s all this is about.
+</p>
+
+<div class="box">
+<strong>No tech background needed.</strong><br>
+You can follow it yourself, or just understand what needs to be done.
 </div>
 
-</body>
-</html>
+<h2>If you don’t want to deal with it</h2>
+
+<p>
+Totally fair.
+</p>
+
+<p>
+After you go through the guide, if you’d rather just have someone handle it, I can help set it up for you.
+</p>
+
+<p>
+No pressure either way.
+</p>
+
+<a href="/create-checkout-session.php" class="cta">
+Download the Guide
+</a>
+
+<div class="footer">
+Put together for small businesses that rely on local customers — not big marketing budgets.
+</div>
+
+</div>
