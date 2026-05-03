@@ -138,7 +138,7 @@ button:hover {
 
 <!-- HERO -->
 <div class="hero fade">
-    <h1>Hey — I’m Adam.<br>I help local businesses show up the way they should on Google.</h1>
+    <h1>Hey — I’m Adam f.<br>I help local businesses show up the way they should on Google.</h1>
 
     <p>
     I’ve been looking at businesses around East Central Indiana — Anderson, Muncie, Richmond — and a lot of them have the same issue.
